@@ -11,3 +11,8 @@
 .legel-color{
     color: #B68C5A;
 }
+.card-img-legel{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
