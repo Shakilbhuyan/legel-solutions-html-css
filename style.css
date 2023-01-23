@@ -1,0 +1,13 @@
+.btn-legel{
+    height: 64px;
+    border-radius: 8px;
+    background: #B68C5A;;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding:15px;
+}
+.legel-color{
+    color: #B68C5A;
+}
