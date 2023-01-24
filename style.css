@@ -15,4 +15,8 @@
     background-image: url('images/banner.png');
 background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url('images/banner.png');
     height: 550px;
+    width:auto;
+}
+.li-legel{
+    list-style: none;
 }
