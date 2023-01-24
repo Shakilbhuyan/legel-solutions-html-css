@@ -11,8 +11,7 @@
 .legel-color{
     color: #B68C5A;
 }
-.card-img-legel{
-    position: absolute;
-    left: 30%;
-    top: 30%;
+.banner{
+    background-image: url('images/banner.png');
+    height: 550px;
 }
